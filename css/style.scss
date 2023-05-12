@@ -1,3 +1,15 @@
-h1{
-    color: green;
+.row{
+    background-color: rgb(146, 252, 146);
+
+    .my-col1{
+        background-color: rgb(245, 36, 245);
+    }
+    .my-col2{
+        background-color: rgb(228, 166, 84);
+    }
+    .my-col3{
+        background-color: rgb(114, 114, 240);
+    }
+
+
 }

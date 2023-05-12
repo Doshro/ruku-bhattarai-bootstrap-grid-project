@@ -1,4 +1,16 @@
-h1 {
-  color: green;
+.row {
+  background-color: #92fc92;
+}
+
+.row .my-col1 {
+  background-color: #f524f5;
+}
+
+.row .my-col2 {
+  background-color: #e4a654;
+}
+
+.row .my-col3 {
+  background-color: #7272f0;
 }
 /*# sourceMappingURL=style.css.map */
