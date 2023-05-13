@@ -1,9 +1,1 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAE,OAAkB;CAavC;;AAdD,AAGI,IAHA,CAGA,QAAQ,CAAA;EACJ,gBAAgB,EAAE,OAAiB;CACtC;;AALL,AAMI,IANA,CAMA,QAAQ,CAAA;EACJ,gBAAgB,EAAE,OAAiB;CACtC;;AARL,AASI,IATA,CASA,QAAQ,CAAA;EACJ,gBAAgB,EAAE,OAAkB;CACvC",
-    "sources": [
-        "style.scss"
-    ],
-    "names": [],
-    "file": "style.css"
-}
+{"version":3,"sources":["style.scss","style.css"],"names":[],"mappings":"AACQ;EACI,WAAA;ACAZ;ADEQ;EACI,sBAAA;ACAZ;;ADII;EACI,iBAAA;ACDR;ADEQ;EACI,sBAAA;ACAZ;ADGQ;EACI,YAAA;ACDZ;;ADKI;EACI,mCAAA;ACFR;;ADII;EACI,mCAAA;ACDR;;ADGI;EACI,oCAAA;ACAR","file":"style.css"}

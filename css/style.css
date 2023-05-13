@@ -1,16 +1,28 @@
-.row {
-  background-color: #92fc92;
+nav .gmail-text-color {
+  color: #fff;
+}
+nav .search-btn {
+  background-color: #fff;
 }
 
-.row .my-col1 {
-  background-color: #f524f5;
+.first-column {
+  padding-top: 15px;
+}
+.first-column .d-1 {
+  background-color: #fff;
+}
+.first-column .email-time {
+  float: right;
 }
 
-.row .my-col2 {
-  background-color: #e4a654;
+.my-col1 {
+  background-color: rgb(245, 36, 245);
 }
 
-.row .my-col3 {
-  background-color: #7272f0;
+.my-col2 {
+  background-color: rgb(228, 166, 84);
 }
-/*# sourceMappingURL=style.css.map */
+
+.my-col3 {
+  background-color: rgb(114, 114, 240);
+}/*# sourceMappingURL=style.css.map */
