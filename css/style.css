@@ -5,22 +5,6 @@ nav .search-btn {
   background-color: #fff;
 }
 
-.msg-list-column {
-  padding-top: 15px;
-}
-.msg-list-column .first-email {
-  background-color: rgb(216, 211, 211);
-}
-.msg-list-column .d-1 {
-  background-color: #fff;
-}
-.msg-list-column .email-time {
-  float: right;
-}
-.msg-list-column .email-sender {
-  font-weight: bold;
-}
-
 .my-col1 {
   background-color: rgb(180, 175, 180);
 }
@@ -49,6 +33,21 @@ nav .search-btn {
 .my-col2 {
   padding-top: 5px;
   background-color: rgb(228, 166, 84);
+}
+.my-col2 .msg-list-column {
+  padding-top: 15px;
+}
+.my-col2 .msg-list-column .first-email {
+  background-color: rgb(216, 211, 211);
+}
+.my-col2 .msg-list-column .d-1 {
+  background-color: #fff;
+}
+.my-col2 .msg-list-column .email-time {
+  float: right;
+}
+.my-col2 .msg-list-column .email-sender {
+  font-weight: bold;
 }
 
 .my-col3 {

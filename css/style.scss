@@ -1,3 +1,5 @@
+    
+    // style for navbar
     nav{
         .gmail-text-color{
             color: #fff;
@@ -7,24 +9,7 @@
         }
     }
 
-    .msg-list-column{
-        padding-top: 15px;
-        .first-email{
-            background-color: rgb(216, 211, 211);
-        }
-        .d-1{
-            background-color: #fff;
-        }
-        
-        
-        .email-time{
-            float: right;
-        }
-        .email-sender{
-            font-weight: bold;
-        }
-    }
-    
+    // style for first column
     .my-col1{
         background-color: rgb(180, 175, 180);
 
@@ -53,10 +38,32 @@
             }
         }
     }
+
+    // style for second column
     .my-col2{
         padding-top: 5px;
         background-color: rgb(228, 166, 84);
+
+        .msg-list-column{
+            padding-top: 15px;
+            .first-email{
+                background-color: rgb(216, 211, 211);
+            }
+            .d-1{
+                background-color: #fff;
+            }
+            
+            
+            .email-time{
+                float: right;
+            }
+            .email-sender{
+                font-weight: bold;
+            }
+        }
     }
+    
+    //  style for third column
     .my-col3{
 
         background-color: rgb(248, 248, 245);
