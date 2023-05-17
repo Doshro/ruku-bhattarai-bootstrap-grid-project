@@ -5,24 +5,64 @@ nav .search-btn {
   background-color: #fff;
 }
 
-.first-column {
+.msg-list-column {
   padding-top: 15px;
 }
-.first-column .d-1 {
+.msg-list-column .first-email {
+  background-color: rgb(216, 211, 211);
+}
+.msg-list-column .d-1 {
   background-color: #fff;
 }
-.first-column .email-time {
+.msg-list-column .email-time {
   float: right;
+}
+.msg-list-column .email-sender {
+  font-weight: bold;
 }
 
 .my-col1 {
-  background-color: rgb(245, 36, 245);
+  background-color: rgb(180, 175, 180);
+}
+.my-col1 .menu-row {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.my-col1 .menu-row .compose-btn {
+  margin-bottom: 145px;
+  margin-left: 35px;
+}
+.my-col1 .menu-row .compose-btn:hover {
+  background-color: rgb(50, 104, 104);
+}
+.my-col1 .menu-row .menu-list {
+  margin-left: 35px;
+}
+.my-col1 .menu-row .menu-list:hover {
+  background-color: rgb(50, 104, 104);
 }
 
 .my-col2 {
+  padding-top: 5px;
   background-color: rgb(228, 166, 84);
 }
 
 .my-col3 {
-  background-color: rgb(114, 114, 240);
+  background-color: rgb(248, 248, 245);
+}
+.my-col3 .opened-email {
+  padding-top: 15px;
+}
+.my-col3 .opened-email .alex {
+  font-weight: bold;
+}
+.my-col3 .opened-email .btn:hover {
+  background-color: rgb(50, 104, 104);
+}
+.my-col3 .opened-email img {
+  padding-right: 10px;
 }/*# sourceMappingURL=style.css.map */
