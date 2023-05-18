@@ -21,18 +21,45 @@
             padding-top: 20px;
             padding-bottom: 20px;
 
-            .compose-btn{
-                margin-bottom: 145px;
-                margin-left: 35px;
-            }
-            .compose-btn:hover{
-                background-color: rgb(50, 104, 104);
+            .m-2{
+                text-align: center;
             }
 
-           
-            .menu-list{
-                margin-left: 35px;
+            .compose-btn{
+                margin-bottom: 145px;
+                padding: 10px 40px 10px 40px;
+                background-color: #fff;
+                color: #000;
             }
+            .compose-btn:hover{
+                background-color: rgb(152, 236, 236);
+            }
+
+            .menu-list1{
+                padding: 6px 20px;
+            }
+
+            .menu-list2{
+                padding: 6px 30px;
+            }
+            .menu-list3{
+                padding: 6px 25px;
+            }
+            .menu-list4{
+                padding: 6px 26px;
+            }
+            .menu-list5{
+                padding: 6px 28px;
+            }
+            .btn{
+                text-align: center;
+            }
+            
+
+        //    .menu-list{
+        //         margin-left: 30px;
+            
+        //     }
             .menu-list:hover{
                 background-color: rgb(50, 104, 104);
             }
@@ -48,9 +75,11 @@
             padding-top: 15px;
             .first-email{
                 background-color: rgb(216, 211, 211);
+                padding: 10px;
             }
             .d-1{
                 background-color: #fff;
+                padding: 10px;
             }
             
             

@@ -16,15 +16,35 @@ nav .search-btn {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+.my-col1 .menu-row .m-2 {
+  text-align: center;
+}
 .my-col1 .menu-row .compose-btn {
   margin-bottom: 145px;
-  margin-left: 35px;
+  padding: 10px 40px 10px 40px;
+  background-color: #fff;
+  color: #000;
 }
 .my-col1 .menu-row .compose-btn:hover {
-  background-color: rgb(50, 104, 104);
+  background-color: rgb(152, 236, 236);
 }
-.my-col1 .menu-row .menu-list {
-  margin-left: 35px;
+.my-col1 .menu-row .menu-list1 {
+  padding: 6px 20px;
+}
+.my-col1 .menu-row .menu-list2 {
+  padding: 6px 30px;
+}
+.my-col1 .menu-row .menu-list3 {
+  padding: 6px 25px;
+}
+.my-col1 .menu-row .menu-list4 {
+  padding: 6px 26px;
+}
+.my-col1 .menu-row .menu-list5 {
+  padding: 6px 28px;
+}
+.my-col1 .menu-row .btn {
+  text-align: center;
 }
 .my-col1 .menu-row .menu-list:hover {
   background-color: rgb(50, 104, 104);
@@ -39,9 +59,11 @@ nav .search-btn {
 }
 .my-col2 .msg-list-column .first-email {
   background-color: rgb(216, 211, 211);
+  padding: 10px;
 }
 .my-col2 .msg-list-column .d-1 {
   background-color: #fff;
+  padding: 10px;
 }
 .my-col2 .msg-list-column .email-time {
   float: right;
